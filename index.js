@@ -1,4 +1,3 @@
-import fetch from "node-fetch";
 import {franc} from 'franc';
 import colors from 'colors';
 
