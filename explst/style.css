@@ -1,3 +1,27 @@
-.heading{
-    font-size:xx-large;
+.heads{
+    font-size:3rem;
+}
+.bodydiv{
+    border: 2px solid;
+    border-radius: 7px;
+    border-color: antiquewhite;
+    padding:1.5% 2% 1.5% 1.6%;
+}
+.cover{
+    display:flex;
+    justify-content: center;
+}
+.headsec{
+    display: flex;
+    justify-content: center;
+    padding:2%;
+}
+.btn{
+    width: 30%;
+    position: relative;
+    
+}
+.btncv {
+    display: flex;
+    justify-content: center;
 }
