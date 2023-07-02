@@ -38,16 +38,16 @@ I downloaded all the language codes from official sources and converted them to 
 2. Open your web browser and visit [http://localhost:3232](http://localhost:3232) to view the site.
 
 ##Example sentences to test
-English: "The sun is shining brightly in the sky."
-Spanish: "Me encanta la comida picante."
-French: "Je suis en train de lire un livre intéressant."
-German: "Ich gehe gerne im Wald spazieren."
-Italian: "Mi piace mangiare la pizza con gli amici."
-Portuguese: "Eu gosto de ouvir música enquanto cozinho."
-Japanese: "今日は友達と映画を見に行きます。"
-Russian: "Мой любимый цвет - голубой."
-Mandarin Chinese: "我正在学习如何写汉字."
-Arabic: "أحب السفر واكتشاف ثقافات جديدة."
+English: "The sun is shining brightly in the sky."  
+Spanish: "Me encanta la comida picante."  
+French: "Je suis en train de lire un livre intéressant."  
+German: "Ich gehe gerne im Wald spazieren."  
+Italian: "Mi piace mangiare la pizza con gli amici."  
+Portuguese: "Eu gosto de ouvir música enquanto cozinho."  
+Japanese: "今日は友達と映画を見に行きます。"  
+Russian: "Мой любимый цвет - голубой."  
+Mandarin Chinese: "我正在学习如何写汉字."  
+Arabic: "أحب السفر واكتشاف ثقافات جديدة."  
 
 ## Contributing
 
