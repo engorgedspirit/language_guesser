@@ -13,11 +13,14 @@
     <span class="heads">Language Guesser</span></div>
     <div class="cover">
     <div class="bodydiv">
-    <form action="/langsub" method="post" class="container-sm ">
+    <form action="/langsub" method="post" id="myForm" class="container-sm ">
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Langugage to identify</label>
-            <textarea rows="4" cols="40" class="align-middle" placeholder="Sample sentence" name="text"></textarea>
+            <textarea rows="4" cols="40" class="align-middle" id="myTextArea" placeholder="Enter sentence here..." name="text"></textarea>
           </div>
+          <span class="dispans">
+            
+          </span>
           <span class="btncv">
           <button type="submit" class="btn btn-primary py-2 px-4 ">Try it</button></span>   
     </form>
